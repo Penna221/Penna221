@@ -1,5 +1,5 @@
 ## Info
-👋 Hi, I’m @Penna221
+👋 Hi, I’m Juho Pennanen.
 I’m interested in Game development. I have a youtube channel where i do all sorts of stuff. Link down below at Social.
 
 ## Skills
