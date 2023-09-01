@@ -1,6 +1,6 @@
 ## Info
 👋 Hi, I’m Juho Pennanen.
-I’m interested in Game development. I have a youtube channel where i do all sorts of stuff. My profession sis IT Engineer. 
+I’m interested in Game development. I have a youtube channel where i do all sorts of stuff. My profession is IT Engineer. 
 
 ## Skills
 - 🤖 Automation testing, for example Cypress and Selenium. 
